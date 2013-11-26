@@ -1,4 +1,7 @@
 # Ruby on Rails Tutorial: first application
 
-La prima applicazione che usa RubyOnRails
+<<<<<<< HEAD
+=======
+La seconda applicazione che usa RubyOnRails
+>>>>>>> Sviluppo3
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
